@@ -161,7 +161,7 @@ const HomePage = () => {
             {/* Text Content - Right Side */}
             <div className="col-span-1 origin-right scale-25 sm:scale-35 md:scale-55 lg:scale-75 xl:scale-100">
               <div className="text-center lg:text-right">
-                <div className="inline-block bg-yellow-100 text-yellow-800 px-6 py-3 rounded-full text-[5.2rem] sm:text-[3rem] lg:text-[3.5rem] xl:text-[4rem] font-black tracking-tight leading-tight lg:tracking-normal lg:leading-normal mb-6 inline-badge transform origin-center scale-x-110 sm:scale-x-125 lg:scale-x-140 scale-y-[1.8] sm:scale-y-[1.3] lg:scale-y-[1.45]">
+                <div className="inline-block bg-yellow-100 text-yellow-800 px-6 py-3 rounded-full text-[6rem] sm:text-[3rem] lg:text-[3.5rem] xl:text-[4rem] font-black tracking-tight leading-tight lg:tracking-normal lg:leading-normal mb-6 inline-badge transform origin-center scale-x-110 sm:scale-x-125 lg:scale-x-140 scale-y-[2.0] sm:scale-y-[1.3] lg:scale-y-[1.45]">
                   المنصة الرائدة في حلول الدفع الألكتروني في اليمن
                 </div>
                 {/* مساحة بيضاء فارغة للجوال فقط - تم تقليلها بسبب العنوان الأكبر */}
