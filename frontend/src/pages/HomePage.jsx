@@ -164,8 +164,8 @@ const HomePage = () => {
                 <div className="inline-block bg-yellow-100 text-yellow-800 px-6 py-3 rounded-full text-[2.5rem] sm:text-[3rem] lg:text-[3.5rem] xl:text-[4rem] font-black tracking-tight leading-tight lg:tracking-normal lg:leading-normal mb-6 inline-badge transform origin-center scale-x-110 sm:scale-x-125 lg:scale-x-140 scale-y-[1.2] sm:scale-y-[1.3] lg:scale-y-[1.45]">
                   المنصة الرائدة في حلول الدفع الألكتروني في اليمن
                 </div>
-                {/* مساحة بيضاء فارغة للجوال فقط */}
-                <div className="block sm:hidden h-20"></div>
+                {/* مساحة بيضاء فارغة للجوال فقط - تم تقليلها بسبب العنوان الأكبر */}
+                <div className="block sm:hidden h-12"></div>
                 <p className="hero-subtitle text-[clamp(2.5rem,8.0vw,2.8rem)] md:text-[1.6rem] lg:text-[1.9rem] text-gray-700 mb-0 sm:mb-8 leading-[clamp(3.5rem,9.5vw,3.8rem)] md:leading-[2.35rem] lg:leading-[2.7rem] font-semibold">
                   نمنحك تجربة دفع وشحن آمنة وسلسة، مصمم لتلبية معاملاتك المالية اليومية بأعلى درجات الكفاءة والموثوقية بواجهة عصرية وسهلة الاستخدام، يجعل التعامل الرقمي أسرع وأكثر متعة مع دعم العملات الرقمية والبطاقات الإلكترونية مسبقة الدفع مثل لتجربة مبتكرة وموثوقة بين يديك
                 </p>
